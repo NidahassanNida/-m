@@ -1,0 +1,351 @@
+/*//////////////////////////////////////////////////////////////////BUTTON//////////////////////////////////////*/
+.btn1:hover{
+  border: solid;
+  border-color: maroon;   
+  background-color: white;
+  color: black;
+}
+.bg-black{
+  background-color: black;
+
+}
+.btn2:hover{
+  border: solid;
+  border-color: maroon;  
+}
+.btn-serach{
+  margin-right: 70px;
+    background-color: maroon;
+    color: white;
+}
+.btn1{
+  background-color: maroon;
+  color: white;
+  border: maroon;
+  padding: 5px 30px 5px 30px;
+}
+.btn2{
+  margin-left: 20px;
+  border: white;
+  padding: 5px 30px 5px 30px;
+  background-color: white;
+  box-shadow: 0px 0px 35px gray;
+}
+.btn3{
+background-color: maroon;
+  color: white;
+  border: maroon;
+  border-left: 2px solid white;
+  padding: 5px 10px 5px 10px;
+}
+.btn5{
+  background-color: maroon;
+    color: white;
+    border: maroon;
+    padding: 5px 10px 5px 10px;
+  }
+.btn4{
+border: white;
+padding: 5px 30px 5px 30px;
+background-color: white;
+box-shadow: 0px 0px 35px gray;
+}
+/*//////////////////////////////////////////////////////////////////NAV BAR//////////////////////////////////////*/
+html{
+  scroll-behavior: smooth;
+}
+  body{
+overflow-x: hidden;
+    }
+    .header{
+      position: fixed;
+      width: 100%;
+      z-index: 30;
+    }
+    
+    .row1col2{
+      background-image: url(breakfast_169364927.jpg);
+      background-size: cover;
+    }
+    .img1{
+      padding-top: 100px;
+      margin-left: 30px;
+    }
+  .portion1{
+      margin-left: 50px;
+  }
+  .navbar{
+      padding-top:20px ;
+  }
+  .navlog{
+    text-decoration: none;
+    background-color: maroon;
+      color: white;
+      border: maroon;
+      padding: 5px 13px 5px 13px;
+  }
+  .navlog:hover{
+    border: solid;
+      border-color: maroon;   
+      background-color: white;
+      color: black;
+  }
+  .navbar-brand{
+    padding: 5px 30px 5px 30px;
+      margin-left: 50px;
+      background-color: maroon;
+      color: white;
+  }
+  .navbar-brand:hover{
+  color: white;
+  }
+  .nav-item{
+    padding: 0px 1px 0px 5px;
+  }
+  .nav-link{
+      color:maroon;
+      font-weight: 700;
+  }
+  .nav-link:hover{
+    color:maroon;
+    font-weight: 700;
+}
+  
+  .food1{
+      padding-top: 100px;
+  }
+  .food{
+    font-size: 40px;
+    text-align: left;
+      font-weight: 700;
+  }
+  
+  .lorem{
+      padding-top: 30px;
+      margin-right: 50px;
+  }
+  .row2{
+    background-color: maroon;
+    margin-top: 80px;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;justify-content: space-around;  
+  }
+  .row3{
+    background-color: maroon;
+    display: flex;
+    flex-direction: row;justify-content: space-around;  
+  }
+
+  .newrow{
+    color: white;
+  }
+  .newp{
+    color: white;
+    font-size: 13px;
+  }
+  .pride{
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: 900;
+  }
+.row4{
+margin-top: 80px;
+}
+.col-pride{
+padding-left: 70px;
+}
+.card-img-top{
+margin-left: 50px;
+}
+.bi-check{
+color: maroon;
+font-size: 25px;
+}
+.row5{
+margin-top: 80px;
+margin-left: 50px;
+}
+.image1{
+margin-top: 40px;
+padding-left: 118px
+}
+.rowimage2{
+padding-top: 10px;
+}
+.wafflerow{
+margin-top: 80px;
+background-size: cover;
+background-attachment: fixed;
+background-position: 0 71.9125px;
+background-image: url(https://images.unsplash.com/photo-1612195325864-72eee6490137?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdoaXRlJTIwYmFja2dyb3VuZCUyMGNha2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+}
+.wafflecontent1{padding-top: 50px;}
+.wafflecontent{
+font-weight: 900;
+display: flex;
+justify-content: center; color: maroon;
+}
+.wafflecontentp{
+display: flex;
+justify-content: center; 
+}
+.wafflecontentbtn1{
+background-color: maroon;
+color: white;
+border: 0;
+margin-top: 30px;
+padding: 5px 30px 5px 30px;
+margin-bottom: 50px;
+}
+/* .card{
+  text-align: ;
+} */
+.cartsection{
+margin-top: 80px;
+}
+.explorefood{
+color: maroon;font-weight: 900;
+}
+.allcards{
+margin-left: 50px;
+margin-top: 30px;
+display: flex;
+justify-content: center;
+}
+.i{
+background-color: maroon;
+opacity: 0.1;height: 250px;
+}
+.test{
+background-color: maroon;
+color: white;margin-top: 80px;
+}
+.carousel-caption{
+background-color: white;
+color: maroon;
+}
+.nida{
+color: maroon;
+font-weight: 600;
+}
+.question{
+margin-left: 50px;
+font-size: 20px;
+margin-top: 60px;
+padding-bottom: 10px;
+padding-right: 80px;
+text-align: justify;
+}
+.answer{
+margin-left: 50px;
+font-size: 13px;
+padding-bottom: 10px;
+padding-right: 80px;
+text-align: justify;
+}
+.bi-toggle-on{
+font-size: 40px;
+margin-right: 30px;
+}
+.changeBlack{
+font-size: 40px;display: none;
+color: maroon;transform: rotate(180deg);
+}
+/* //////////////////////////////////AEROPLANE///////////////////////////////////////////// */
+.aeroplane {
+  position: fixed;
+  font-size: 40px;
+  color: maroon; 
+  right:0;
+  border: none;
+  background: transparent;
+  bottom: 0;
+  }
+/* //////////////////////////////////SEARCH BOX///////////////////////////////////////////// */
+.search{
+  /* margin-left: 160px; */
+  width: 100%;
+  outline: none;
+  border: 2px solid maroon;
+}
+.searchbtn{
+  margin-right: 230px;
+}
+/* //////////////////////////////////////SIGN IN/////////////////////////////////////// */
+.loginbox {
+  margin-top: 100px;
+  box-shadow: 0px 0px 35px gray;
+  color: maroon;
+  margin-bottom: 50px;
+}
+.avatar {
+  width: 100px;
+  margin-top: -50px;
+}
+h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 30px;
+}
+.form-label {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+.loginbox input {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0;
+  font-weight: bold;
+}
+.loginbox input[type="text"],input[type="password"],input[type="email"] {
+  border: none;
+  border-bottom: 1px solid maroon;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  font-size: 16px;
+  color: maroon;
+}
+.button {
+  background-color: white;
+  outline: none;
+  height: 40px;
+  font-size: 18px;
+  background-color: maroon;
+  color: white;
+  width: 100%;
+  border: maroon;
+  padding: 5px 30px 5px 30px;
+}
+.button:hover {
+  cursor: pointer;
+  border: solid;
+  border-color: maroon;
+  background-color: white;
+  color: maroon;
+}
+.option{
+  text-decoration: none;
+  font-size: 12px;font-weight: bold;
+  line-height: 12px;
+  color: maroon;
+}
+.option:hover {
+  cursor: pointer;
+  }
+.warning{
+    color: red;
+    margin-top: -15px;
+    font-weight: bold;
+}
+
+/* //////////////////////////////////////////////FOOTER/////////////////////////////////////// */
+.text-muted{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 0px 30px 0px 0px;
+}
