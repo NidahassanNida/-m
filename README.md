@@ -3,10 +3,12 @@ MERN stack project for Food ordering system that allow customers to browse the m
 
 ## Overview
 
-- **Frontend**: Developed with React.js
-- **Responsiveness**: Fully responsive design
-- **Backend**: Node.js and Express
-- **Database**: MongoDB
+- Developed with React for a responsive web design.
+- Includes user-friendly features like dark mode and scroll-to-top functionality.
+- Manages order history through a Context API, enhancing the user experience.
+- Powered by Node.js and Express on the backend.
+
+
 
 ## Prerequisites
 
